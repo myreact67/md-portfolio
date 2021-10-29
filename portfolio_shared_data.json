@@ -1,0 +1,59 @@
+{
+    "basic_info": {
+      "name": "A.Mohamed Saliha",
+      "titles": [ "QA Automation Engineer", "DevOps Engineer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "md.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "level": "95"
+        },
+        {
+          "name": "Angular",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "level": "60"
+        }
+      ]
+    }
+  }
